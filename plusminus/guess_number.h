@@ -1,0 +1,1 @@
+void guess_number(int MIN, int max, int number);
