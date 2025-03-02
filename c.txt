@@ -1,2 +1,0 @@
-apt install build-essential ## debian installation
-yum group install development-tools ## redhat installation
